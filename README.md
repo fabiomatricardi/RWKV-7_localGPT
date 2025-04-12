@@ -18,3 +18,10 @@ from the terminal run
 python gr_RWKV7_chat.py
 ```
 
+
+
+### The running app
+
+
+<img src='https://github.com/fabiomatricardi/RWKV-7_localGPT/raw/main/RWKV7gradioDocs.gif' width=1000>
+
