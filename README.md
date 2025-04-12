@@ -19,6 +19,9 @@ python gr_RWKV7_chat.py
 ```
 
 
+### prompt guidelines
+Read more in the [official blog post](https://wiki.rwkv.com/RWKV-Prompts/prompt-guidelines.html)
+
 
 ### The running app
 
